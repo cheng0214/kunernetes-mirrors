@@ -1,0 +1,2 @@
+from gcr.io/google_containers/pause:3.0
+MAINTAINER shencheng shencheng931029@outlook.com
